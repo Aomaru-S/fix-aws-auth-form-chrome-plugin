@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Fixed AWS Form",
+  "name": "Fix AWS form",
   "description": "Plug-in to fix specification that user name is not auto-completed in AWS IAM sign-in",
   "version": "1.0",
   "content_scripts": [
